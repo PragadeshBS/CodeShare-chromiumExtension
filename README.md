@@ -1,17 +1,18 @@
 # 🚀 CodeShare - Chromium Extension 🚀
 
-> This Chrome extension is based on the code from a Firefox extension originally developed by Prasath K available at [github.com/Pr454th/CodeShare](https://github.com/Pr454th/CodeShare). I have modified the code to make it work for chromium based browsers and have added some new features as well.
-
+> This Chrome extension is based on the code from a Firefox extension originally developed by [Prasath K](https://github.com/Pr454th) available at [github.com/Pr454th/CodeShare](https://github.com/Pr454th/CodeShare). I have modified the code to make it work for chromium based browsers and have added some new features as well.
 
 The CodeShare Extension for chromium based browsers like Google Chrome, Microsoft Edge, Brave and others allows users to quickly and easily share code snippets or text with others. This extension simplifies the sharing process, reducing the number of steps involved.
 
 ## 📥 Installation
 
 ### Microsoft Edge
+
 Install the extension from the [Microsoft Edge Add-ons store](https://microsoftedge.microsoft.com/addons/detail/ngidembnlampakgdooaphpchlfanhmlp)
 
 ### Other chromium based browsers
-* Clone this repo or download as zip (then unzip it somewhere) to your pc
+
+- Clone this repo or download as zip (then unzip it somewhere) to your pc
 
 1. Visit <i>chrome://extensions</i> (or) the **Extensions** page from settings.
 2. Enable **Developer mode**
