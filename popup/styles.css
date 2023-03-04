@@ -1,0 +1,23 @@
+body {
+  width: 400px;
+}
+
+#content {
+  resize: none;
+  height: 270px;
+}
+
+.text-area-container {
+  position: relative;
+}
+
+.text-area-copy-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 20px;
+  height: 20px;
+  background: url(./assets/copy-solid.svg) no-repeat;
+  border: 0;
+  cursor: pointer;
+}
